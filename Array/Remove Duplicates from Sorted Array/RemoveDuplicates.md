@@ -1,4 +1,4 @@
-![screencapture-leetcode-explore-interview-card-top-interview-questions-easy-92-array-727-2022-05-06-21_22_40](https://user-images.githubusercontent.com/70676475/167131118-dc199280-22ec-45c7-b21d-3b31153744e9.png)
+![screencapture-leetcode-explore-interview-card-top-interview-questions-easy-92-array-727-2022-05-06-21_22_40](https://user-images.githubusercontent.com/70676475/167134459-0b697479-679f-46aa-a47e-4b59537eeba5.png)
 
 ### 문제 주소
 [Remove Duplicates from Sorted Array](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/727/)
