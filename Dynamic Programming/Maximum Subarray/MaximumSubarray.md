@@ -17,7 +17,7 @@ class Solution:
                 max_sum = sub_sum[i]
         return max_sum
 ```
-** Runtime이 1000ms가 넘어감 **
+**Runtime이 1000ms가 넘어감**
 
 ### 수정 코드
 ```python
@@ -38,7 +38,7 @@ class Solution:
 빈 list(`sub_sum`)을 생성하고 `nums[i]`와 `sub_sum[i-1]+nums[i]` 중 더 큰 값을 `sub_sum`에 저장 
 `sub_sum[i-1]+nums[i]`가 크면 계속해서 누적되어서 값이 저장되지만  
 `nums[i]`이 커지는 순간 이전에 누적된 값이 `nums[i]`로 변경되면서 다시 값을 비교하면서 저장  
-** 흐름은 동일하지만 list comprehension(sub_sum = [0 for i in range(len(nums))])을 사용해서 Runtime을 줄임 **
+**흐름은 동일하지만 list comprehension(sub_sum = [0 for i in range(len(nums))])을 사용해서 Runtime을 줄임**
 
 ### 시간복잡도
 O(n)
