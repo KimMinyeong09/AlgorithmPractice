@@ -25,7 +25,8 @@ class Solution:
         return List
 ```
 for 반복문 안에서 `.bit_count`를 돌리지 않고  
-밖으로 빼내서 처음부터 `List` 안에 저장
+밖으로 빼내서 처음부터 `List` 안에 저장  
+**Runtime이 20ms정도가 감소**
 
 ### 접근 방법
 0부터 n까지의 숫자들의 이진수에서 1의 개수를 구하는 것이기 때문에  
